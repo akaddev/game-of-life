@@ -27,4 +27,4 @@ again.
 
 ### Solution animation
 
-<img src="\\wsl$\Ubuntu\home\smile\projects\misc\game-of-life\game-of-life.gif"/>
+<img src="https://github.com/akaddev/game-of-life/blob/main/game-of-life.gif?raw=true"/>
