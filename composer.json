@@ -1,0 +1,12 @@
+{
+    "name": "akaddev/game-of-life",
+    "description": "Game Of Life",
+    "autoload": {
+        "psr-4": {
+            "Akaddev\\GameOfLife\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
